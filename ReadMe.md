@@ -25,6 +25,7 @@
 <a href="https://fb.com/amnaqasmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amnaqasmi" height="30" width="40" /></a>
 <a href="https://instagram.com/amnaaltaf360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amnaaltaf360" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code g.k with amna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code g.k with amna" height="30" width="40" /></a>
+<a href="https://discord.gg/Amna360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amna360" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
